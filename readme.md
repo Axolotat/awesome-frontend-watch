@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-> Stay up to date with front-end development using this awesome collection of resources, including websites, RSS feeds, and social media accounts.
+> Stay up-to-date with front-end development using this awesome collection of resources, including websites, RSS feeds, and social media accounts.
 
 <!-- image -->
 
