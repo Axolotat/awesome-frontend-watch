@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-> Stay up-to-date with front-end development using this awesome collection of resources, including websites, RSS feeds, and social media accounts.
+Stay up-to-date with front-end development using this awesome collection of resources, including websites, RSS feeds, and social media accounts.
 
 <!-- image -->
 
@@ -26,14 +26,20 @@
 
 ## Contents
 
+- [Events](#events)
 - [Flux RSS](#flux-rss)
-- [Websites](#websites)
 - [Newsletters](#newsletters)
-- [Account to follow](#account-to-follow)
+- [Social](#social)
+- [Videos](#videos)
+- [Websites](#websites)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
 ---
+
+## Events
+
+- [CSS Day](https://cssday.nl) - Advanced CSS conference. Our attendees and speakers are a mix of CSS designers, developers, spec writers and browser vendors, who take pride in what they know and do. We're a conference with an informal vibe and plenty of breaks, where each person can approach one another.
 
 ## Flux RSS
 
@@ -46,21 +52,30 @@
 - [infoq.com](https://feed.infoq.com) - InfoQ is an online community news site focused on facilitating the spread of knowledge and innovation in professional software development through
 - [theneewsstack.io](https://thenewstack.io/feed) - The New Stack is a media platform for the people who build and manage software the world relies on.
 
-## Websites
-
-- [App.daily](https://app.daily.dev) - Daily dev is a professional network for developers to learn, collaborate, and grow together.
-- [dev.to](https://dev.to) - A constructive and inclusive social network for software developers. With you every step of your journey.
-
 ## Newsletters
 
 - [Daily dev link](https://dailydevlinks.com) - Discover the Latest Industry Trends, News & Resources. Carefully curated newsletter for developers, designers and makers. 100% Free.
 - [theneewsstack.io](https://thenewstack.io/feed)
 
-## Account to follow
+## Social
 
-- [Mastodon list](./assets/mastodon-account-list.csv) - mastodon list to follow (feel free to add accounts with a contribution)
-- [Twitter list](./assets/twitter-account-list.csv) - twitter list to follow (feel free to add accounts with a contribution)
-- [Linkedin list](./assets/linkedin-account-list.csv) - linkedin list to follow (feel free to add accounts with a contribution)
+- [Mastodon instance - fosstodon.org](https://fosstodon.org/about) Fosstodon is an English speaking Mastodon instance that is open to anyone who is interested in technology; particularly free & open source software.
+- [Mastodon instance - front-end.social](https://front-end.social/about) Front-end web makers who value humans over technology & embrace diversity on an accessible web. We hope to stay small & grow slowly. More at https://about.front-end.social
+- [Mastodon instance - hachyderm.io](https://hachyderm.io/about) Hachyderm is a safe space, LGBTQIA+ and BLM, primarily comprised of tech industry professionals world wide.
+- [Mastodon account list](./assets/mastodon-account-list.csv) - mastodon list to follow (feel free to add accounts with a contribution). This CSV conforms to the import format required by Mastodon.
+- [Twitter account list](./assets/twitter-account-list.csv) - twitter list to follow (feel free to add accounts with a contribution)
+- [Linkedin account list](./assets/linkedin-account-list.csv) - linkedin list to follow (feel free to add accounts with a contribution)
+
+## Videos
+
+- [Fireship](https://www.youtube.com/@Fireship) - High-intensity ⚡ code tutorials and tech news to help you ship your app faster. New videos every week covering the topics every programmer should know.
+- [Web conferences](https://www.youtube.com/@WebConferencesAmsterdam) - We curate and organise deep-diving, single-track, content-focused web conferences and workshops in Amsterdam. Most sessions, about 45 minutes each, include a Q&A session with the speaker. We aim to cover techniques that can stand the test of time, and we tend to stay away from hypes.
+
+## Websites
+
+- [app.daily](https://app.daily.dev) - Daily dev is a professional network for developers to learn, collaborate, and grow together.
+- [dev.to](https://dev.to) - A constructive and inclusive social network for software developers. With you every step of your journey.
+- [frontendwatch.com](https://frontendwatch.com) - What Is The Most Popular Front-end Framework? React vs Angular vs Vue vs Ember. Watch The Facts And The Latest Trends.
 
 <!-- END CONTENT -->
 
