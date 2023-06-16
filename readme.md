@@ -1,28 +1,8 @@
-<div align="center">
+# Awesome frontend watch [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<!-- title -->
-
-<!--lint ignore no-dead-urls-->
-
-# Awesome Frontend Watch [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/axolotat/awesome-frontend-watch/actions/workflows/lint.yaml/badge.svg)](https://github.com/axolotat/awesome-frontend-watch/actions/workflows/lint.yaml)
-
-<!-- subtitle -->
+> In this list, we&#39;ve curated an awesome collection of resources that can assist front-end developers in staying up-to-date with the latest trends and technologies.
 
 Stay up-to-date with front-end development using this awesome collection of resources, including websites, RSS feeds, and social media accounts.
-
-<!-- image -->
-
-<!-- <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
-</a> -->
-
-<!-- description -->
-
-> In this list, we've curated an awesome collection of resources that can assist front-end developers in staying up-to-date with the latest trends and technologies.
-
-</div>
-
-<!-- Content -->
 
 ## Contents
 

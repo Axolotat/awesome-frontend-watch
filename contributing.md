@@ -1,18 +1,25 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](code_of_conduct.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a
+[Contributor Code of Conduct](code-of-conduct.md). By participating in this
+project you agree to abide by its terms.
 
-## PRs
+---
 
-ALWAYS create a new branch with your proposed changes. Thank you!
+Ensure your pull request adheres to the following guidelines:
 
-## Adding an new Item
+- Make sure you take care of this
+- And this as well
+- And don't forget to check this
 
-- Try to fit your item into an existing sections. [Open a suggestion](https://github.com/axolotat/awesome-frontend-watch/issues/new) to start as discussion about any new sections.
-- Add a new item to the bottom of the list in a section.
-- If a duplicate item exists, discuss why the new item should replace it.
-- Check your spelling & grammar.
-- The item must follow this format:
-  ```
-  - [item name](https link) - Description beginning with capital, ending in period.
-  ```
+Thank you for your suggestions!
+
+
+## Updating your PR
+
+A lot of times, making a PR adhere to the standards above can be difficult.
+If the maintainers notice anything that we'd like changed, we'll ask you to
+edit your PR before we merge it. There's no need to open a new PR, just edit
+the existing one. If you're not sure how to do that,
+[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
+on the different ways you can update your PR so that we can merge it.
