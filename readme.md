@@ -90,7 +90,6 @@ Stay up-to-date with front-end development using this awesome collection of reso
 - [Electronjs.org](https://www.electronjs.org/blog/rss.xml)
 - [Eslint.org](https://eslint.org/feed.xml)
 - [Freecodecamp.org](https://www.freecodecamp.org/news/rss/) - Every aspect of freeCodeCamp is 100% free. The courses, the projects, and even the certifications. Can freeCodeCamp help me get a job as a software developer?
-- [Frontendfoc.us](https://cprss.s3.amazonaws.com/frontendfoc.us.xmls) - A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.
 - [Frontendfront.com](https://frontendfront.com/feed/stories) - A crowd curated feed of front-end related articles. There's also an updated list of Javascript conferences in 2023, if you're interested in that.
 - [Hackernoon.com - frontend](https://hackernoon.com/tagged/frontend/feed) - HackerNoon is built for technologists to read, write, and publish. We are an open and international community of 35,000+ contributing writers publishing stories and expertise for 5 - 8 Million curious and insightful monthly readers.
 - [Hackernoon.com - javascript](https://hackernoon.com/tagged/javascript/feed)
@@ -123,8 +122,7 @@ Stay up-to-date with front-end development using this awesome collection of reso
 - [Daily dev link](https://dailydevlinks.com) - Discover the Latest Industry Trends, News & Resources. Carefully curated newsletter for developers, designers and makers. 100% Free.
 - [Ecmascript.news](https://ecmascript.news) - Stay up-to-date on JavaScript and tools.
 - [Frontendfoc.us](https://frontendfoc.us) - A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.
-- [Daily-dev-tips.com](https://daily-dev-tips.com) - Chris Bongers is a full-stack remote web developer with 15+ years of experience.
-- [Theneewsstack.io](https://thenewstack.io/feed)
+- [Theneewsstack.io](https://thenewstack.io/)
 - [Unicornclub.dev](https://unicornclub.dev/) - Newsletter for Front-end Devs & UX/UI Designers. You're a design-savvy developer or code-loving designer. Stay inspired, expand your skills ...
 - [Webtoolsweekly.com](https://webtoolsweekly.com) - A weekly newsletter for front-end developers with a specific focus on tools.
 
