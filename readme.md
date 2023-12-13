@@ -134,6 +134,7 @@ Stay up-to-date with front-end development using this awesome collection of reso
 - [Frontendwatch.com](https://frontendwatch.com) - What Is The Most Popular Front-end Framework? React vs Angular vs Vue vs Ember. Watch The Facts And The Latest Trends.
 - [Frontendmentor.io](https://www.frontendmentor.io) - Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.
 - [Medium.com](https://medium.com) - Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
+- [Now.hackertab.dev](https://now.hackertab.dev) - Retool open-source alternative, with low-code UI components and support for multiple data resources. 
 
 <!-- END CONTENT -->
 
