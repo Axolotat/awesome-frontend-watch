@@ -50,6 +50,7 @@ Stay up-to-date with front-end development using this awesome collection of reso
 ## Events
 
 - [CSS Day](https://cssday.nl) - Advanced CSS conference. Our attendees and speakers are a mix of CSS designers, developers, spec writers and browser vendors, who take pride in what they know and do. We're a conference with an informal vibe and plenty of breaks, where each person can approach one another.
+- [Paris Web](https://www.paris-web.fr/) - Since 2006, Paris Web is the meeting for web pro french people.
 
 ## Flux RSS
 
